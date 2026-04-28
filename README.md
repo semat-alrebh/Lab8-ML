@@ -1,7 +1,7 @@
-# K-Nearest Neighbors (KNN) Project
+# K-Nearest Neighbors (KNN)
 
-## Project Overview
-This project applies the K-Nearest Neighbors classification algorithm on an artificial dataset to predict the **TARGET CLASS** of each data point.
+##  Overview
+This assignment applies the K-Nearest Neighbors classification algorithm on an artificial dataset to predict the **TARGET CLASS** of each data point.
 
 ---
 
